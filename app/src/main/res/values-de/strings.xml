@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoodlyNote</string>
+    <string name="home_title">Heute</string>
+    <string name="mood_label">Stimmung</string>
+    <string name="mood_value">Stimmung: %1$s</string>
+    <string name="energy_label">Energie</string>
+    <string name="energy_value">Energie: %1$d%%</string>
+    <string name="note_label">Notiz (optional)</string>
+    <string name="save_entry">Eintrag speichern</string>
+    <string name="recent_entries">Letzte Einträge</string>
+    <string name="empty_entries">Noch keine Einträge.</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="language_label">Sprache</string>
+    <string name="language_system">System</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_english">Englisch</string>
+    <string name="theme_label">Theme</string>
+    <string name="theme_soft">Soft</string>
+    <string name="theme_normal">Normal</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="done">Fertig</string>
+</resources>
